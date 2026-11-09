@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+pic/
+out_*/
+preview*/
+*.mp4
+*.pptx
+*.zip
